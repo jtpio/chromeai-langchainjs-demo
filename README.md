@@ -2,12 +2,6 @@
 
 A simple web application that demonstrates how to use LangChain.js with ChromeAI to create a chat interface.
 
-## Features
-
-- Web-based chat interface
-- Uses the ChromeAI language model through LangChain.js
-- Minimalistic UI with user and AI message styling
-
 ## Getting Started
 
 ### Prerequisites
@@ -48,6 +42,6 @@ npm run preview
 - Vite (for building and development)
 - ChromeAI language model
 
-## License
+## Deployment
 
-This project is for demonstration purposes.
+The application is set up for automatic deployment to GitHub Pages using GitHub Actions. When you push changes to the `main` branch, the application will automatically build and deploy to GitHub Pages.
